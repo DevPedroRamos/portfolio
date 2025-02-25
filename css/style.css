@@ -1770,6 +1770,9 @@ content
 .art-testimonial-slider {
   width: 100%;
 }
+.testimonial-body{
+  min-height: 100%;
+}
 
 .art-testimonial {
   position: relative;
